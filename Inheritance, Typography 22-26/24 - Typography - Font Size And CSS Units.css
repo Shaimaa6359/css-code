@@ -1,0 +1,21 @@
+/* 
+    css units
+    -px
+    -em=>time= 1em=1time
+    -rem=> root time
+    -percentage
+    -vw=>view port 
+   1em != not equal 16px this is wrong
+   read
+   --vmin
+   --vh
+ */
+ body{
+   font-size: 40px;
+ }
+ div{
+    font-size: 20px;
+ }
+ div span{
+   font-size: 2rem ;
+ }

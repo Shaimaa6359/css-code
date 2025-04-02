@@ -1,0 +1,17 @@
+/* Text - Alignment=> محازت النصوص
+    Text Alignment
+    Direction
+    Vertical Alignment
+*/
+div {
+    background-color: #abda;
+    /* text-align: center=النص في النتصف
+        lift,right
+    */
+    text-align: center;
+    /* direction: ltr=>lift to right
+    direction: rtl=>right to lift
+     */
+    direction: ltr;
+    vertical-align: top;
+}

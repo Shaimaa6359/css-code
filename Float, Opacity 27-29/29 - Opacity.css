@@ -1,0 +1,8 @@
+.one{
+    background-color: brown;
+    opacity: 0.1;/* للعنصر كله بالخلفية والنص*/
+}
+.two{
+   background-color:  rgb(165 42 42 / 10%);
+}
+/* Bootstrap => one of the word framework  */

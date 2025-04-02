@@ -1,0 +1,44 @@
+.parent {
+    background-color: #abda;
+    width: 800px;
+    height: calc((100% - 75px) / 4);
+    /* margin-top: 15px; */
+    gap: 15px;
+    text-align: center;
+}
+
+.parent .title {
+    background-color: #abda;
+    width: calc(100% - 30px);
+    margin-left: 15px;
+    height: calc((100% - 75) / 5);
+    /* margin-top: 15px; */
+    float: left;
+}
+
+.parent .three {
+    background-color: #abda;
+    padding: 15px 0;
+    display: inline-block;
+    width: calc((100% - 60px) / 3);
+    margin-left: 15px;
+    float: left;
+}
+
+.parent .two {
+    background-color: #abda;
+    padding: 15px 0;
+    display: inline-block;
+    width: calc((100% - 45px) / 2);
+    margin-left: 15px;
+    float: left;
+}
+
+.parent .four {
+    background-color: #abda;
+    padding: 15px 0;
+    display: inline-block;
+    width: calc((100% - 75px) / 4);
+    margin-left: 15px;
+    float: left;
+}

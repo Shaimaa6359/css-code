@@ -1,0 +1,13 @@
+/* 
+    font style
+    font variant== text-transform: uppercase
+    font weight
+*/
+div{
+    /* font-style: italic ; */
+    /* font-variant: small-caps; */
+    font-weight: bold;
+}
+p{
+    text-transform: uppercase;
+}

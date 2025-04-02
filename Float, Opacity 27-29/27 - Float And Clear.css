@@ -1,0 +1,22 @@
+/* 
+Float
+Clear
+*/
+.parent {
+    background-color: brown;
+    padding: 10px;
+}
+
+.parent div {
+    padding: 10px 0;
+    /* padding-top: 10px ; */
+    /* padding-bottom: 10px; */
+    text-align: center;
+    background-color: bisque;
+    display: inline-block;
+    width: 25%;
+    float: left;
+}
+.clear{
+    clear: both;
+}

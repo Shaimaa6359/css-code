@@ -1,0 +1,23 @@
+/* 
+    text decoration=>بزين النص
+    text-decoration: line-through
+    text-decoration: underline
+    text-decoration: overline
+    text transformation=احول في النص نفسه
+    text-transform: capitalize=> اول حرف كبتل
+    text-transform: uppercase=>كل الحروف كبتل
+    text-transform: lowercase=>كل الحروف اسمول
+
+*/
+div{
+    background-color: #abda;
+    text-decoration: underline;
+}
+a{
+    background-color: gray;
+    color: orange;
+    padding: 10px;
+    display: inline-block;
+    border-radius: 5px;
+    text-decoration: none;
+}

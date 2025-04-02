@@ -1,0 +1,27 @@
+/* .parent .child .title{
+    color: red;
+}
+.parent .title {
+    color: blue;
+}
+.parent p{
+    color: green;
+} */
+ .title{
+    color: red;
+ }
+ span.title{
+    color: blue;
+ }
+ p{
+    color: green;
+ }
+ div.title{
+    color: green;
+ }
+ .child .title{
+    color: red;
+ }
+
+/* قم بتلوين جملة Section Title باللون الأخضر
+قم بجمع الألوان المتشابهه مع بعضها */

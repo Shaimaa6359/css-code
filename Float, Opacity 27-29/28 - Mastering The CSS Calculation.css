@@ -1,0 +1,32 @@
+/* 
+    calc
+ */
+ body{
+    margin: 0;/*margin: 8px; user agent */
+ }
+ div{
+    padding: 10px 0;
+    text-align: center;
+    background-color: #abda;
+    float: left;
+    width: calc((100% - 90px) / 5);
+    margin-left: 15px;
+ }
+ /* 
+    content width is: 100%
+    s spaces 1% *5=5% from content width
+    95% available space 
+    4 elements the width is ::after95% / 4
+ */
+ /* content width is: 100%
+    s spaces 1% *6=6% from content width
+    94% available space 
+    5 elements the width is ::after95% / 5 */
+    /* content width is: 100%
+    s spaces 2% *6=12% from content width
+    88% available space 
+    5 elements the width is ::after95% / 5 */
+    /* content width is: 100%
+    s spaces 15px *6=90px from content width
+    100% - 90px available space 
+    5 elements the width is ::after (100% - 90px) / 5 */

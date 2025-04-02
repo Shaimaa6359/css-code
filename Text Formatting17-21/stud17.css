@@ -1,0 +1,14 @@
+/* 
+    Text colour
+        background color
+        color
+    Text shadow
+    syntax=> text shadow ظل
+    H-shadow v-shadow Blur color
+*/
+div{
+    background-color: #EEE;
+    /* color: blueviolet; */
+    text-shadow: 1px 1px 0 red;
+    text-shadow: 1px 1px 0 blue;
+}

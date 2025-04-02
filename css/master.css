@@ -1,0 +1,30 @@
+seletor {
+    property: value;
+    propertyTwo: value
+}
+
+/* .name of paragrahp=>class
+    #name of paragraph=>id
+*/
+/* p {
+    color:red;
+    font-size: 20px;
+}
+
+.my-me {
+    color: rgb(0, 255, 119);
+    font-size: 50px;
+}
+#my-me{
+    color: blue;
+    font-size: 30px;
+} */
+ p{
+    color: blueviolet;
+ }
+ p{ 
+    color: blue;
+ }
+ #special{
+    
+ }D:\frontend\css-project\css\master.css

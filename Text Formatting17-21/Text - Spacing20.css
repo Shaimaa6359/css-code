@@ -1,0 +1,24 @@
+/* 
+    text spacing
+    -letter spacing=> المسافة بين الحروف في النص وممكن تكون سالبة
+    -word spacing=> بيقبل قيمة سالبة ايضا المسافة بس بين الكلمات مش الاحرف
+    -indentation=>
+    -line height=>ارتفاع الخط بين السطور
+    -word spacing + wraping +white space
+*/
+div{
+    background-color: #abda;
+    /* letter-spacing: 2px; */
+    /* text-indent: 100px;
+    line-height: 1.666;
+    word-spacing: 12px; */
+    width: 300px;
+    /* width: 300px;
+    white-space: nowrap=>النص بيكمل خارج العرض المحدد
+
+     */
+     white-space: normal;
+     word-break: break-word;
+     /* word-break: break-word=>break link لانه بيعتبر النك كلمة واحدها */
+
+}

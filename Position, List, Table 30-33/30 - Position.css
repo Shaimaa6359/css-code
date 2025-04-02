@@ -1,0 +1,31 @@
+/* 
+position
+-static =>Default=> reset
+-Relative=>بيتحرك لوحده من غير ما ياثر على ال حوليه
+-Absolute=.بيخفي الحاجة والبعده بحل مكانه
+-Fixed=> بيتحرك معاك بنئة على الصفحة وبينزل معاك وانت بتعمل اسكرول
+-Sticky
+ */
+ body{
+   min-height: 5000px;
+ }
+ div{
+    background-color: #abda;
+    color: white;
+    padding: 10px;
+    position: sticky;
+    top: 0;
+ }
+ .one{
+    background-color: blueviolet;
+    position: absolute;
+ }
+ .two{
+    background-color: brown;
+ }
+ .parent{
+   width: 500px;
+   height: 500px;
+   background-color: blue;
+   position: relative;
+ }

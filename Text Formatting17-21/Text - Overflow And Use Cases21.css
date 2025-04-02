@@ -1,0 +1,15 @@
+/* 
+    text overflow
+ */
+ div{
+    background-color: #abda;
+    padding: 10px;
+    width: 200px;
+
+    white-space: nowrap;    /*مينزلش الكلام للسطر ال بعده حتى لو العرض قليل وبالتالي هيحصل overflow */
+    overflow: hidden;       /*الكلام ال حصله اوفر فلو امسحه او اخفيه */
+    text-overflow: ellipsis;/*بعرف ان في كلام خارج المساحة دي النص مقطوع  */
+ }
+ div:hover{
+    overflow: visible;/*هيظهر الكلام افلمقطوع باقي النص */
+ }

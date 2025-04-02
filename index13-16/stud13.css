@@ -1,0 +1,26 @@
+.one{
+    border-bottom: 2px solid red;
+    color: red;
+}
+.two{
+    border-bottom: 2px solid blueviolet;
+    color: blueviolet;
+}
+.three{
+    border-bottom: 2px solid palegreen;
+    color: palegreen;
+    
+}
+.four{
+    
+    border-bottom: 2px solid burlywood;
+    color: burlywood;
+}
+.one,
+.two,
+.three,
+.four{
+    pad: 10px;
+    margin: 10px 0;
+    background-color: #abda;
+}

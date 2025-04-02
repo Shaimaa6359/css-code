@@ -1,0 +1,10 @@
+/* using =>nesting =>can bus long */
+p{
+    color: #abda;
+}
+div p{
+    color: seagreen;
+}
+div .shosho{
+    color: coral;
+}

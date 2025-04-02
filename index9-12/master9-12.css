@@ -1,0 +1,66 @@
+/* background-color: yellow;
+    padding: 10px;
+    width: 70%;
+    margin: auto;
+    border-width: 10px;
+    border-color: crimson;
+    border-style: solid;
+    border: 20px dashed mediumvioletred; */
+/* border=>الحواف او الاطار الخارجي
+    =>border-width
+    border-top-width: 2px;
+    border-right-width: 2px;
+    border-bottom-width: 2px;
+    border-left-width: 2px;  
+    =>border-color
+    =>border-style
+    عندنا كود مختصر للكلام ده كله
+    border: width style color
+    */
+/* background-color: #DDD;
+    width: 300px;
+    padding: 10px; */
+/* border-left: 5px solid red; */
+/* outline-color: ;
+    outline-style: ;
+    outline-width: ; */
+/* outline: 10px solid red;
+    border: 10px solid blue; */
+/* 
+        block(div)
+        -take full width if no width
+        -add line break
+        -respect padding, margin, width, height
+         inline
+        -don't add line break
+        -not respect width, height
+        -respect padding, margin [just lift + right]
+        -allow elements before and after it
+         inline-block
+        -allow elements before and after it
+        -respect padding, margin, width, height
+        -
+
+    */
+/* span {
+    background-color: #EEE;
+    display: inline-block;
+    /* padding: 30px; */
+    /* width: 300px;
+    height: 30px; */
+    /* margin: 10px; */
+div{ 
+    background-color: tomato;
+    margin: 10px 0;
+    /* display: none; */
+    /*  display: none;=> بس بتغير مكنها بيخفي العنصر */
+    /* visibility: visible; */
+    /* visibility: visible=> defaut;
+    بتخفي بس مش بتغير مكنها
+     */
+}
+.frist{
+    /* display: none; */
+    visibility: hidden;
+    
+}

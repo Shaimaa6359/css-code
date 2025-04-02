@@ -1,0 +1,10 @@
+/* 
+hand=> type of carcer ponter
+*/
+button{
+    background: transparent;
+    border: none;
+    color: orange;
+    font-weight: bold;
+    cursor: pointer;
+}

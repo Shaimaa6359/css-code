@@ -1,0 +1,19 @@
+div{
+    background-color: red;
+/* color name*/
+background-color: rgb(55 55 55 / 50 );
+/* rgb(red, green, blue) / Alpha channel الشافافية للون
+        and intensity(the intensity of the color between 0 and 255)
+     */
+     /* background-color: #00ff01; */
+/*color hex code*/
+/* background-image: url("../../imge/Untitled.jpg"); */
+/* url=> link of imge */
+/* background-repeat: no-repeat; */
+/* defaut=>قيمة افترضية repeat
+    repeat => بتكرر الصور افقي ورائسي
+    no-repeat=>
+    repeat-x=>افقي
+    repeat-y=>راسي
+    */
+}

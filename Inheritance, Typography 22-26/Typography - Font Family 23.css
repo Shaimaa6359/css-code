@@ -1,0 +1,30 @@
+/* font family => 
+web safe fonts
+web fonts=> web خطوط متاحه لصفحات 
+
+*/
+
+/* div{
+    background-color: #abda;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;/*full back anther font */
+/* sans serif=>sans معنها بدون
+    بدون كسرة
+    serif بكسرة
+
+*/
+
+*/ .with-ser {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.san-ser {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.with-ser,
+.san-ser {
+    background-color: #EEE;
+    padding: 9px;
+
+}

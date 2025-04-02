@@ -1,0 +1,13 @@
+div{
+    background-color: #abda;
+    padding: 10px;
+    /* display: inline-block;
+    min-width: 400px;
+    max-width: 500px;
+    min-height: 20px;
+    max-height: 40px; */
+   
+    /* min-width=> محدد عرض بس في احتمال يتمدد */
+    width: fit-content;
+    /*  width: fit-content;=>the best way */
+}
